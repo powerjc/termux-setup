@@ -2,11 +2,8 @@
 yes | pkg upgrade  && \
 yes | pkg install \
   python \
-  python-dev \
   libffi \
-  libffi-dev \
   openssl \
-  openssl-dev \
   libsodium  \
   clang \
   cmake
